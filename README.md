@@ -19,4 +19,4 @@ In this step, I used data preprocessing techniques such as normalization, dimens
 Additionally, I identified the most highly correlated columns with churn, which have already been mentioned in the Results section. These insights help in understanding the key factors contributing to customer churn.
 
 As for the machine learning algorithm results, the performance metrics (accuracy, precision, recall, and F1 score) for each algorithm can be found in the images at the bottom of the README. Based on these results, it's evident that Random Forest and Gradient Boosting algorithms performed the best, followed by K-Nearest Neighbors, while Linear Regression yielded less accurate predictions. These findings can guide future efforts to improve customer retention and prevent churn.
-![Tableau result](https://github.com/Jkfre247/job-offert-analysis/blob/main/Final%20result.png)
+![Tableau result](https://github.com/Jkfre247/Churn_pred/blob/master/comparison_chart.png)
