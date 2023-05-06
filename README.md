@@ -9,7 +9,7 @@ A common practice among competitors is to use a strategy that offers a free mont
 
 ## Clean Data
 In the first part of the analysis, I cleaned the data by removing empty values and fixing null values in the 'remaining_contract' column. Additionally, I created a new 'is_contract' column to indicate whether a contract is active.
-## EDA
+## EDA (Exploratory Data Analysis)
 I conducted a preliminary analysis by creating various plots and looking for relationships among the data features.
 ## Modeling
 In this step, I used data preprocessing techniques such as normalization, dimensionality reduction, and undersampling. I applied machine learning algorithms including K-Nearest Neighbors (KNN), Random Forest (RF), Gradient Boosting (GB), and Linear Regression. By comparing the quality of the results, I found that using dimensionality reduction led to much better outcomes, with an improvement of up to 30% in some cases.
