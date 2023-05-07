@@ -1,10 +1,11 @@
 # Churn_pred
-
-## Result
+##
+The objective of this project is to gain practical experience with machine learning algorithms and provide recommendations to the company. In this case, I will utilize data from Kaggle  [Data](https://www.kaggle.com/datasets/mehmetsabrikunt/internet-service-churn). At the end of the project, I will present my recommendations and share the results of my work.
+## Result and Recomendation
 The best predictive algorithms turned out to be Random Forest and Gradient Boosting, with an accuracy of 93%, while K-Nearest Neighbors (KNN) was slightly worse with an accuracy of around 90%.
 
 The most important features that can be inferred from the data are that customers are more likely to stay if they have a contract, a TV subscription, a movie package subscription, and use a reasonable amount of download (internet). These are the key factors for retention. 
-## Recomendation
+
 Therefore, my recommendation is to focus on these factors. For example, offer contracts with a predetermined term, such as 2 years, which include movie and TV subscriptions. This way, we have the highest chances of retaining our customers.
 
 A common practice among competitors is to use a strategy that offers a free month for switching to their service, while signing the customer up for a 2-year contract. We may consider this option as a way to attract and retain customers.
