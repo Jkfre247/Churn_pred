@@ -1,5 +1,5 @@
 # Churn_pred
-##
+## Introduction
 The objective of this project is to gain practical experience with machine learning algorithms and provide recommendations to the company. In this case, I will utilize data from Kaggle  [Data](https://www.kaggle.com/datasets/mehmetsabrikunt/internet-service-churn). At the end of the project, I will present my recommendations and share the results of my work.
 ## Result and Recomendation
 The best predictive algorithms turned out to be Random Forest and Gradient Boosting, with an accuracy of 93%, while K-Nearest Neighbors (KNN) was slightly worse with an accuracy of around 90%.
